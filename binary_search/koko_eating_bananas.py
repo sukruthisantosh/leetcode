@@ -21,12 +21,6 @@ class Solution:
 
 
 
-
-
-
-
-
-
 solution = Solution()
 piles = [3,6,7,11]
 h = 8
